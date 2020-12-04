@@ -5,9 +5,9 @@ Project Title :  “An Android Chatbot Application That Uses Watson Chatbot Assi
 This minor project is Submitted in partial fulfilment of the requirements for the award of Bachelor of Technology (B.Tech) In the department of Computer Science & Engineering of Kaziranga University.
 ```
 
-```
+
 Try our app : https://drive.google.com/file/d/1GBuo6C7-V2HhookvVOGN-Kug5U33PWh9/view?usp=sharing
-```
+
 
 ![](GGG.gif)
 
